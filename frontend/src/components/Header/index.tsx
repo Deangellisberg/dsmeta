@@ -9,7 +9,7 @@ function Header() {
                     <p>
                         Desenvolvido por
 
-                        <a   href="www.linkedin.com/in/deangellis-berg-bezerra-da-silva-4890b2139">www.linkedin.com/in/deangellis-berg-bezerra-da-silva-4890b2139</a>
+                        <a   href="www.linkedin.com/in/deangellis-berg-bezerra-da-silva-4890b2139"> Deangellis Berg </a>
                     </p>
 
             </div>
